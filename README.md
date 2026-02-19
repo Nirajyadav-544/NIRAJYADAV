@@ -9,26 +9,31 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Building **Scalable Full Stack Applications**
-- 🌱 Currently learning **System Design & Advanced DevOps**
-- ⚙️ Working with **Jenkins, Kubernetes & Cloud**
-- 🤖 Exploring **Generative AI + Web Integration**
-- 💬 Ask me about **MERN, Java, DSA, OS & Deployment**
-- ⚡ Fun fact: I debug better at night 🌙
+- 🔭 Building Scalable Full Stack Applications  
+- 🌱 Learning System Design & Advanced DevOps  
+- 🤖 Exploring Generative AI + Web Integration  
+- 💬 Ask me about MERN, Java, DSA, OS & Deployment  
+- ⚡ Debugging at 2AM hits different 🌙  
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/your-link" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+<p align="center">
+<a href="https://linkedin.com/in/your-link" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+<a href="https://www.hackerrank.com/your-username" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" height="40"/>
+</a>
+<a href="https://leetcode.com/your-username/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="40"/>
+</a>
+<a href="https://auth.geeksforgeeks.org/user/your-username/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/geeksforgeeks.svg" height="40"/>
 </a>
 <a href="mailto:your-email@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="40" />
-</a>
-<a href="https://github.com/yourusername">
-<img src="https://skillicons.dev/icons?i=github" height="40" />
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
 </p>
 
@@ -45,8 +50,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical" height="165"/>
 </p>
 
 ---
@@ -54,6 +59,7 @@
 ## 🚀 Top Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&langs_count=8" />
 </p>
+
 
